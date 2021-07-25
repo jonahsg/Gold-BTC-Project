@@ -1,7 +1,7 @@
 # Gold-BTC-Project
 
 
-The purpose of this project is to analyze the effects of two proxies for inflation, CPI and US M2, on Gold, BTC, and S&P 500 prices in order.
+The purpose of this project is to analyze the effects of two proxies for inflation, CPI and US M2, on Gold, BTC, and S&P 500 prices.
 
 
 
